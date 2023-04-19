@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "lodash.uniqueid": "^4.0.1",
+    "semantic-ui-css": "^2.5.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
